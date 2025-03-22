@@ -1,9 +1,0 @@
-# Bỏ qua thư mục node_modules của frontend và backend
-computer-selling-v1/node_modules/
-identity-service/node_modules/
-
-# Nếu backend dùng Python thì bỏ qua thư mục venv
-identity-service/venv/
-
-# Nếu backend dùng Java thì bỏ qua thư mục build
-identity-service/target/
